@@ -4,9 +4,7 @@ __pycache__/
 *$py.class
 
 # Data files
-# ...
-# De momento intentamos subir todos los PDFs a GitHub (a falta de saber el volumen)
-# *.pdf
+*.pdf
 
 # C extensions
 *.so
