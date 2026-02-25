@@ -1,0 +1,562 @@
+{
+    "Ministerio del Interior": {
+        "Guardia Civil": [
+            {
+                "file_name": "Transcripción de conversación telefónica de (presuntamente) García Carres y Tejero mientras (posiblemente) el segundo se encontraba dentro del Congreso.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/guardia-civil/23F_1._Conversacion_telefonica_GARCIA_CARRES_y_Tcol._TEJERO.pdf"
+            },
+            {
+                "file_name": "Transcripción de conversación telefónica de García Carres con otra persona después de la citada.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/guardia-civil/23F_2._Conversacion_telefonica_GARCIA_CARRES.pdf"
+            },
+            {
+                "file_name": "Conversaciones telefónicas de (presuntamente) la unidad militar El Pardo (24 de febrero del 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/guardia-civil/23F_3._Conversaciones_telefonicas_unidad_militar_El_Pardo.pdf"
+            },
+            {
+                "file_name": "Documentación con una presunta planificación del golpe, manuscrita (1980).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/guardia-civil/23F_4._Documento_planificacion_del_golpe.pdf"
+            },
+            {
+                "file_name": "Documento manuscrito de posible planificación del golpe.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/guardia-civil/23F_5._Documento_manuscrito_planificacion_del_golpe.pdf"
+            },
+            {
+                "file_name": "Transcripción de cintas grabadas con conversaciones telefónicas con varias personas intervenidas a la esposa de Tejero.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/guardia-civil/23F6TR_1.PDF"
+            },
+            {
+                "file_name": "Nota del EM de la Guardia Civil con una secuencia parcial de los hechos del asalto al Congreso.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/guardia-civil/23F_7._Notas_Informativas_2_Seccion_EM_desarrollo_hechos.pdf"
+            },
+            {
+                "file_name": "Télex interiores y de agencias recibidos en 2ª sección EM el día 23-F informando del estado de situación (23 de febrero de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/guardia-civil/23F_8._Telex_interiores_y_de_Agencias_recibidos_en_2_Seccion_EM.pdf"
+            },
+            {
+                "file_name": "Oficio zona País Vasco que expresa una comunicación del teniente coronel Tejero sobre la posible situación de tensión por la presencia de ETA (1975).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/guardia-civil/23F_9._Oficio_dimanante_Zona_del_Pais_Vasco_disposiciones_sobre_Tejero.pdf"
+            },
+            {
+                "file_name": "Nota sobre la comparecencia del teniente coronel Tejero informando sobre una reunión en la cafetería Galaxia citando al resto de asistentes (1978).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/guardia-civil/23F_10._Nota_comparecencia_Tejero_Galaxia.pdf"
+            },
+            {
+                "file_name": "Nota Informativa sobre la repercusión en prensa del arresto de Tejero en 1978 cuando era Jefe de la Comandancia de Málaga, y sobre alguna carta de apoyo de civiles.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/guardia-civil/23F_11._Nota_Informativa_repercusion_prensa_arresto_Tejero_antes_1981.pdf"
+            }
+        ],
+        "Dirección General de la Policía": [
+            {
+                "file_name": "Informe de las distintas Jefaturas Superiores: Comisaría General de Información. \"Situación actual en las distintas regiones policiales y acciones de protesta previstas en relación a la ocupación del Palacio del Congreso de los Diputados\" (24 de febrero de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/policia/SITUACION_REGIONES_POLICIALES_24-02-81.pdf"
+            },
+            {
+                "file_name": "Informe de las distintas Jefaturas Superiores: Comisaría General de Información. \"Situación actual en las distintas regiones policiales y acciones de protesta previstas en relación a la ocupación del Palacio del Congreso de los Diputados\" (25 de febrero de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/policia/SITUACION_REGIONES_POLICIALES_25-02-81.pdf"
+            },
+            {
+                "file_name": "Informe de las distintas Jefaturas Superiores: Comisaría General de Información. \"Situación actual en las distintas regiones policiales y acciones de protesta previstas en relación a la ocupación del Palacio del Congreso de los Diputados\" (26 de febrero de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/policia/SITUACION_REGIONES_POLICIALES_26-02-81.pdf"
+            },
+            {
+                "file_name": "Nota: Fuerza Nueva. El divorcio del Rey con el Ejército (12 de marzo de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/policia/12-03-81_NOTA_INFORMATIVA_SOBRE_FUERZA_NUEVA.pdf"
+            },
+            {
+                "file_name": "Nota de la Brigada de Información Interior: Ayudas a los implicados en el 23-F. Desde altas instancias castrenses campaña de ayuda económica para los implicados en el 23-F (18 de marzo de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/policia/18-03-81_NOTA_INFORMATIVA_SOBRE_LA_AYUDA_A_LOS_IMPLICADOS_23F.pdf"
+            },
+            {
+                "file_name": "Nota de la Brigada de Información Interior: El 23-F basado en la Operación Ariete. Libro sobre el 23-F revelará que se valoró la entrada del GEO en el Congreso, y que el 23-F se basó en la anterior \"operación Ariete\" (18 de marzo de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/policia/18-03-81_NOTA_INFORMATIVA_SOBRE_LA_OPERACION_ARIETE.pdf"
+            },
+            {
+                "file_name": "Nota: Bloqueada una cuenta de la asociación de mujeres de militares y policías. Esta asociación ha recibido cuantiosos donativos para las familias de los implicados en el 23-F (27 de marzo de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/policia/27-03-81_NOTA_INFORMATIVA_SOBRE_BLOQUEO_DE_CUENTA_DE_ASOC_DE_MUJERES_DE_MILITARES.pdf"
+            },
+            {
+                "file_name": "Nota: Partido Comunista de España PCE. Intento de la extrema derecha de implicar a la monarquía en el 23-F (11 de mayo de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/policia/11-05-81_NOTA_INFORMATIVA_SOBRE_EL_PCE.pdf"
+            },
+            {
+                "file_name": "Nota: Campaña de formación del PSOE sobre involución (13 de mayo de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/policia/13-05_1.PDF"
+            },
+            {
+                "file_name": "Nota de la Brigada de Información Interior: Apoyo económico a los implicados en el 23-F (10 de mayo de 1983).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/policia/10-05-83_NOTA_INFORMATIVA_SOBRE_APOYO_ECONOMICO_A_LOS_IMPLICADOS.pdf"
+            }
+        ],
+        "Otra documentación del Ministerio del Interior": [
+            {
+                "file_name": "Policía Nacional. Informe de situación. Marca: reservado-confidencial (12 de noviembre de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/archivo/1_PN_Informe_Situacion_12-11-81_desp.pdf"
+            },
+            {
+                "file_name": "Índices de subversión en las FAS. Marca: SECRETO (diciembre de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/archivo/2_Indices_de_subversion_en_las_FAS_DIC_1981.pdf"
+            },
+            {
+                "file_name": "Juicio del 23-F: acotaciones al desarrollo del juicio, notas procesales sobre el consejo de guerra, nota sobre posible expediente gubernativo a los guardias civiles, relación de implicados, informe de Jane Walker sobre sentencias benévolas.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/archivo/3_Juicio_del_23-F_desp.pdf"
+            },
+            {
+                "file_name": "Nota \"Campaña contra S.M.\" (sin firma).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/archivo/4_campana_contra_SM.pdf"
+            },
+            {
+                "file_name": "Nota \"Involucionismo político provocado por posible golpe militar\" (sin firma).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/archivo/5_INVOLUCIONISMO_POLITICO_PROVOCADO_POSIBLE_GOLPE_MILITAR_desp.pdf"
+            },
+            {
+                "file_name": "Nota \"Posible golpe de estado\" (sin firma).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/archivo/6_POSIBLE_GOLPE_DE_ESTADO_desp.pdf"
+            },
+            {
+                "file_name": "Notas de 1983 sobre \"Libertad de condenados por el 23-F\", \"Sobre petición de indulto\", \"Vista del recurso de casación del 23-F\", \"Artículo sobre la Brigada Interior en la revista Tiempo\".",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/interior/archivo/7_Notas_1983_desp.pdf"
+            }
+        ]
+    },
+    "Ministerio de Defensa": {
+        "Centro Nacional de Inteligencia (CNI)": [
+            {
+                "file_name": "Guión que sirvió de base para la reunión de S.M. el Rey con el Presidente del Gobierno, el ministro de Defensa y la Junta de Jefes de Estado Mayor (14 de diciembre de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_1_R.pdf"
+            },
+            {
+                "file_name": "Relación CESID (Dirección) - General Jefe del Estado Mayor (Capitanía).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_2_R.pdf"
+            },
+            {
+                "file_name": "Relación CESID (Dirección) - PREJUJEM (J2).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_3_R.pdf"
+            },
+            {
+                "file_name": "Resumen de la actuación del Departamento de Defensa Interna.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_4_R.pdf"
+            },
+            {
+                "file_name": "Actitud del CESID ante la situación provocada por los incidentes en el Congreso.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_5_R.pdf"
+            },
+            {
+                "file_name": "Informe sobre la participación de miembros de la AOME (CESID) en los hechos del 23 de febrero de 1981.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_6_R.pdf"
+            },
+            {
+                "file_name": "Investigación y declaraciones personal AOME por JDDI (9 de abril de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_7_R.pdf"
+            },
+            {
+                "file_name": "Carta de José Cortina Prieto para Emilio Manglano (3 de octubre de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_8_R.pdf"
+            },
+            {
+                "file_name": "Comisiones militares (10 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_9_R.pdf"
+            },
+            {
+                "file_name": "Comisiones militares en la vista de la causa 2/81 del Consejo Supremo de Justicia Militar.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_10_R.pdf"
+            },
+            {
+                "file_name": "Ambiente en los cuarteles (25 de febrero de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_11_R.pdf"
+            },
+            {
+                "file_name": "Sobre la anunciada libertad provisional de algunos procesados en la causa 2/81 (19 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_12_R.pdf"
+            },
+            {
+                "file_name": "Reunión sobre acontecimientos recientes (8 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_13_R.pdf"
+            },
+            {
+                "file_name": "Nota al PREJUJEM (Presidente de la Junta de Jefes de Estado Mayor). Algunos datos para una crónica de un golpe anunciado (Jesús M. Paricio).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_14_R.pdf"
+            },
+            {
+                "file_name": "Incidente entre la defensa del Teniente General Milans del Bosch y la prensa (28 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_15_R.pdf"
+            },
+            {
+                "file_name": "Comentarios sobre la sentencia del 23-F. Cuartel general de la Junta de Jefes de Estado Mayor (6 de junio de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_16_R.pdf"
+            },
+            {
+                "file_name": "El papel de la JUJEM en la crisis político-militar.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_17_R.pdf"
+            },
+            {
+                "file_name": "Reacciones ante la sentencia 23-F. Declaraciones del gobierno (4 de junio de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_18_R.pdf"
+            },
+            {
+                "file_name": "Estado de opinión sobre las sentencias (sección de contrainformación del EME, sección de contrainteligencia) (7 de junio de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_19_R.pdf"
+            },
+            {
+                "file_name": "Relato de los sucesos de los días 23 y 24 de febrero.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_20_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (24 de mayo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_21_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (18 de mayo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_22_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (17 de mayo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_23_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (12 de mayo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_24_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (10 de mayo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_25_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (6 de mayo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_26_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (5 de mayo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_27_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (4 de mayo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_28_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (3 de mayo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_29_R.pdf"
+            },
+            {
+                "file_name": "Información integrada (17 de mayo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_30_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (30 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_31_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (29 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_32_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (28 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_33_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (27 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_34_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (20 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_35_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (19 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_36_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (16 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_37_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (14 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_38_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (13 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_39_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (5 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_40_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (7 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_41_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (6 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_42_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (2 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_43_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (1 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_44_R.pdf"
+            },
+            {
+                "file_name": "Información integrada (20 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_45_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81. Incidentes en la tarde del 5 de abril de 1982 (6 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_46_R.pdf"
+            },
+            {
+                "file_name": "Información integrada (5 de abril de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_47_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (30 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_48_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (29 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_49_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (26 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_50_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (24 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_51_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (22 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_52_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (23 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_53_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (18 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_54_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (17 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_55_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (16 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_56_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (15 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_57_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (12 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_58_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (11 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_59_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (9 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_60_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (8 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_61_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (5 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_62_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (2 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_63_R.pdf"
+            },
+            {
+                "file_name": "Información integrada (16 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_64_R.pdf"
+            },
+            {
+                "file_name": "Información integrada (11 de marzo de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_65_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (26 de febrero de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_66_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (25 de febrero de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_67_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (24 de febrero de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_68_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (22 de febrero de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_69_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (20 de febrero de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_70_R.pdf"
+            },
+            {
+                "file_name": "Vista oral 2/81 del Consejo Supremo de Justicia Militar (19 de febrero de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_71_R.pdf"
+            },
+            {
+                "file_name": "Semestral de la amenaza interior (10 de febrero de 1981; 9 de marzo de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_72_R.pdf"
+            },
+            {
+                "file_name": "Relaciones entre algunos militares y paisanos armados (14 de abril de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_73_R.pdf"
+            },
+            {
+                "file_name": "Referencias en los medios de comunicación social a personal del centro vinculadas los hechos del 23-F (30 de abril de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_74_R.pdf"
+            },
+            {
+                "file_name": "Procesamiento de un jefe (22 de mayo de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_75_R.pdf"
+            },
+            {
+                "file_name": "Comentarios efectuados por el Capitán de la Guardia Civil Sánchez Valiente en Roma el 9 de junio de 1981 (30 de junio de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_76_R.pdf"
+            },
+            {
+                "file_name": "Capitán Sánchez Valiente (2 de junio de 1981).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_77_R.pdf"
+            },
+            {
+                "file_name": "Traslado de un escrito.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_78_R.pdf"
+            },
+            {
+                "file_name": "Interesando comparecencia del capitán de la Guardia Civil José Ramón Tostón de la Calle, un cabo 1º, dos guardias y un paisano comprendidos en la causa 2/81 (5 de enero de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_79_R.pdf"
+            },
+            {
+                "file_name": "Solicitando datos sobre el Cte. Cortina y equipos de transmisiones (8 de enero de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_80_R.pdf"
+            },
+            {
+                "file_name": "Certificación solicitada para su unión a la causa 2/81 del CSJM (12 de enero de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_81_R.pdf"
+            },
+            {
+                "file_name": "Comparecimiento en Consejo Supremo un oficial y dos guardias (12 de enero de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_82_R.pdf"
+            },
+            {
+                "file_name": "Sobre entrevistas de S.M el Rey con militares implicados en el 23-F (5 de febrero de 1982).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_83_R.pdf"
+            },
+            {
+                "file_name": "Revisión de la sentencia dictada en la causa 2/81 del CSJM (19 de octubre de 1987).",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/cni/Documento_84_R.pdf"
+            }
+        ],
+        "Archivo general e histórico del Ministerio de Defensa": [
+            {
+                "file_name": "RESERVADO: parte por abandono de destino del Cap. Sánchez Valiente.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Causa_9481_Reservado_parte_por_abandono_de_destino_del_Cap_Sanchez_Valiente.pdf"
+            },
+            {
+                "file_name": "RESERVADO: Hoja de servicios del Cap. Sánchez Valiente.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Causa_9481_Reservado_Hoja_de_servicios_del_Cap_Sanchez_Valiente.pdf"
+            },
+            {
+                "file_name": "RESERVADO: Informe de Asesoría Jurídica General sobre su situación administrativa del Cap. Sánchez Valiente.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Causa_9481_reservado_Informe_de_Asesoria_Juridica_General_sobre_situacion_administrativa_del_Cap_Sanchez_Valiente.pdf"
+            },
+            {
+                "file_name": "SECRETO: oficio dando cuenta toma de declaración.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21800_Secreto_oficio_dando_cuenta_toma_de_declaracion_1.pdf"
+            },
+            {
+                "file_name": "SECRETO: oficio dando cuenta toma de declaración.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21800_Secreto_oficio_dando_cuenta_toma_de_declaracion_2.pdf"
+            },
+            {
+                "file_name": "RESERVADO: oficio dando cuenta toma de declaración.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21800_Reservado_oficio_dando_cuenta_toma_de_declaracion_3.pdf"
+            },
+            {
+                "file_name": "RESERVADO: oficio dando cuenta toma de declaración.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21800_Reservado_oficio_dando_cuenta_toma_de_declaracion_4.pdf"
+            },
+            {
+                "file_name": "RESERVADO: comunicación del procesamiento de Milans.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21800_Reservado_comunicacion_del_procesamiento_de_Milans.pdf"
+            },
+            {
+                "file_name": "RESERVADO: comunicación procesamiento implicado.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21800_Reservado_comunicacion_procesamiento_de_implicado_1.pdf"
+            },
+            {
+                "file_name": "RESERVADO: comunicación procesamiento implicado.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21800_Reservado_comunicacion_procesamiento_de_implicado_2.pdf"
+            },
+            {
+                "file_name": "RESERVADO: comunicación procesamiento implicado.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21800_Reservado_comunicacion_procesamiento_de_implicado_3.pdf"
+            },
+            {
+                "file_name": "RESERVADO: comunicación procesamiento implicado.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21800_Reservado_comunicacion_procesamiento_de_implicado_4.pdf"
+            },
+            {
+                "file_name": "RESERVADO: comunicación procesamiento implicado.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21800_Reservado_comunicacion_procesamiento_de_implicado_5.pdf"
+            },
+            {
+                "file_name": "RESERVADO: comunicación procesamiento implicado.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21800_Reservado_comunicacion_procesamiento_de_implicado_6.pdf"
+            },
+            {
+                "file_name": "SECRETO: comunicación procesamiento implicado.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21800_Secreto_comunicacion_procesamiento_de_implicado_1.pdf"
+            },
+            {
+                "file_name": "SECRETO: comunicación procesamiento implicado.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21800_Secreto_comunicacion_procesamiento_de_implicado_2.pdf"
+            },
+            {
+                "file_name": "SECRETO: traslado de peticiones de los Abogados de los condenados.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21800_Secreto_traslado_de_peticiones_de_los_Abogados_de_los_condenados.pdf"
+            },
+            {
+                "file_name": "SECRETO: informe jurídico sobre recurso contra la desestimación de la recusación del Ministro de Defensa.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21800_Secreto_informe_juridico_sobre_recurso_contra_la_desestimacion_de_la_recusacion_del_Ministro_de_Defensa.pdf"
+            },
+            {
+                "file_name": "SECRETO: comunicando sanción a consejeros del Consejo Supremo de Justicia Militar.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21801_Secreto_comunicando_sancion_a_consejeros_del_Consejo_Supremo_de_Justicia_Militar.pdf"
+            },
+            {
+                "file_name": "SECRETO: comunicando levantamiento de incomunicación de Tejero.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21802_Secreto_comunicando_levantamiento_de_incomunicacion_de_Tejero.pdf"
+            },
+            {
+                "file_name": "SECRETO: copia de telex dando instrucciones sobre medidas de seguridad con las visitas a Tejero.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21802_Secreto_copita_de_telex_dando_instrucciones_sobre_medidas_de_seguridad_con_las_visitas_a_Tejero.pdf"
+            },
+            {
+                "file_name": "RESERVADO: dación en cuenta de recurso de queja de Milans del Bosch sobre su detención.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21804_Reservado_dacion_en_cuenta_de_recurso_de_queja_de_Milans_del_Bosch_sobre_su_detencion.pdf"
+            },
+            {
+                "file_name": "SECRETO: información sobre circunstancias de la detención de Milans del Bosch.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21804_Secreto_informacion_sobre_circunstancias_de_la_detencion_de_Milans_del_Bosch.pdf"
+            },
+            {
+                "file_name": "SECRETO: distribución de los procesados por la Causa 2/81 en diferentes Unidades militares durante el juicio.",
+                "url": "https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/defensa/Carpeta_21804_Secreto_distribucion_de_los_procesados_por_la_causa_2_81_en_diferentes_unidades_militares_durante_el_juicio.pdf"
+            }
+        ]
+    },
+    "Ministerio de Asuntos Exteriores, Unión Europea y Cooperación": {},
+    "Portal de la Transparencia": {}
+}
