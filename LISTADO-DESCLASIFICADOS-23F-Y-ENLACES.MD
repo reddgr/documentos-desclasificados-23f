@@ -180,7 +180,3 @@ Listado generado a partir de `json/listado_de_archivos.json`.
 - [D.29._AGA-83-09301_exp._5](https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/exteriores/AGA-83-09301/D.29._AGA-83-09301_exp._5.pdf)
 - [D.30._AGA-83-09301_exp._5](https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/exteriores/AGA-83-09301/D.30._AGA-83-09301_exp._5.pdf)
 - [D.31._AGA-83-09301_exp._5](https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/exteriores/AGA-83-09301/D.31._AGA-83-09301_exp._5.pdf)
-
-## Portal de la Transparencia
-
-_No hay documentos listados en esta sección (objeto vacío en el JSON)._
