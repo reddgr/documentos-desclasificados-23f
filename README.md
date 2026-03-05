@@ -4,4 +4,4 @@ Repositorio de código para descargar, procesar y analizar los documentos relati
 
 [LISTADO-DESCLASIFICADOS-23F-Y-ENLACES](./LISTADO-DESCLASIFICADOS-23F-Y-ENLACES.MD)
 
-Listado en Markdown con todos los documentos y enlaces (generado desde `json/listado_de_archivos.json`).
+Índice completo de documentos y enlaces.
