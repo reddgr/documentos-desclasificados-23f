@@ -1,6 +1,6 @@
 # Listado de desclasificados 23F y enlaces
 
-Listado generado a partir de `json/listado_de_archivos.json`.
+Listado de documentos relativos al golpe de Estado en España de 1981 (23F), desclasificados por el gobierno de España el 25 de febrero de 2026, accesibles en el portal web del Gobierno de España: [lamoncloa.gob.es](https://www.lamoncloa.gob.es/consejodeministros/paginas/desclasificacion-documentos-23F.aspx)
 
 ## Ministerio del Interior
 
