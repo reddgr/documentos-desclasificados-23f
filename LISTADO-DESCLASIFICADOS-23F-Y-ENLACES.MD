@@ -159,7 +159,7 @@ Listado de documentos relativos al golpe de Estado en España de 1981 (23F), des
 
 ## Ministerio de Asuntos Exteriores, Unión Europea y Cooperación
 
-### Documents
+### Documentos
 
 - [D.1._AGMAE_R39017_Exp._4](https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/exteriores/AGMAE-R39017/D.1._AGMAE_R39017_Exp._4.pdf)
 - [D.3._AGMAE_R39017_Exp._4](https://www.lamoncloa.gob.es/consejodeministros/Documents/2026/desclasificacion-documentos-23F/exteriores/AGMAE-R39017/D.3._AGMAE_R39017_Exp._4.pdf)
